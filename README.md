@@ -1,7 +1,6 @@
 # ReDiRect
 
 [**Re**duce **Di**stribute **Rect**ify]
-
 An unsupervised machine learning framework for identifying complex money laundering patterns in bank data.
 
 ## Setup:
